@@ -1,0 +1,720 @@
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=2;print(v)));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=2}
+Output:
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=2;print(v)));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=2}
+Output:
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=2;print(v)));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=2}
+Output:
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=2;print(v)));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=2}
+Output:
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=2;print(v)));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=2;print(v));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=2}
+Output:
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 

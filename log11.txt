@@ -1,0 +1,2977 @@
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((int v;(v=20;for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+}));print(v*10));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(int v;(v=20;for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+}));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(int v;(v=20;for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+}));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+});]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+});]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+});]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+});]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+};]
+[v=20;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+};]
+[v=20;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+};]
+
+SymStack:
+{v=20}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){
+Fork{(print(v);v=v+1)}
+};]
+
+SymStack:
+{v=20}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+30
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+30
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((int v;(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  }));print(v*10));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(int v;(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  }));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(int v;(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  }));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  });]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  });]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  });]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  });]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  };]
+[v=20;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  };]
+[v=20;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  };]
+
+SymStack:
+{v=20}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  };]
+
+SymStack:
+{v=20}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+30
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+30
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((int v;(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  }));print(v*10));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(int v;(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  }));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(int v;(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  }));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  });]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  });]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  });]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[(v=20;for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  });]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  };]
+[v=20;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  };]
+[v=20;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  };]
+
+SymStack:
+{v=20}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[for(v=0; v<3; v=v+1){  Fork{(print(v);v=v+1)}  };]
+
+SymStack:
+{v=20}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[(Fork{(print(v);v=v+1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v+1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[while(v < 3) do (Fork{(print(v);v=v+1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+30
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+30
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 

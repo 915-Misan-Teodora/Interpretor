@@ -1,0 +1,1515 @@
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(String file;(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+[String file;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+[String file;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+[file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+[file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+[open file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+[open file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+[int var;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+[int var;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@7905d1ca}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(String file;(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+[String file;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+[String file;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+[file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+[file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+[open file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+[open file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+[int var;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+[int var;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@16f5ac78}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(String file;(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+[String file;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+[String file;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))))));]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+[file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+[file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in;]
+
+SymStack:
+{file=}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(open file - file;(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file))))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+[open file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+[open file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int var;(read file - file;(print(var);(read file - file;(print(var);close file - file)))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+[int var;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+[int var;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);(read file - file;(print(var);close file - file))));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=0}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);(read file - file;(print(var);close file - file)));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(read file - file;(print(var);close file - file));]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+[read file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=15}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(var);close file - file);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+[print(var);]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[close file - file;]
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in=java.io.BufferedReader@5ed80adb}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{file=C:\Users\Misan\IdeaProjects\ToyLanguage\src\test.in, var=50}
+Output:
+15
+50
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 

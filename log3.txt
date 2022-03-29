@@ -1,0 +1,574 @@
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(bool a;(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(bool a;(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v))));]
+
+SymStack:
+{a=false}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v))));]
+
+SymStack:
+{a=false}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v))));]
+
+SymStack:
+{a=false}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v))));]
+
+SymStack:
+{a=false}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)));]
+
+SymStack:
+{a=false, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)));]
+
+SymStack:
+{a=false, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)));]
+
+SymStack:
+{a=false, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)));]
+
+SymStack:
+{a=false, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((IF(a)THEN(v=2)ELSE(v=3));print(v));]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((IF(a)THEN(v=2)ELSE(v=3));print(v));]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((IF(a)THEN(v=2)ELSE(v=3));print(v));]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((IF(a)THEN(v=2)ELSE(v=3));print(v));]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=true, v=2}
+Output:
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=true, v=2}
+Output:
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(bool a;(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v))));]
+[bool a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v))));]
+[bool a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v))));]
+
+SymStack:
+{a=false}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v))));]
+
+SymStack:
+{a=false}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)));]
+[int v;]
+
+SymStack:
+{a=false}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)));]
+[int v;]
+
+SymStack:
+{a=false}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)));]
+
+SymStack:
+{a=false, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=true;((IF(a)THEN(v=2)ELSE(v=3));print(v)));]
+
+SymStack:
+{a=false, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((IF(a)THEN(v=2)ELSE(v=3));print(v));]
+[a=true;]
+
+SymStack:
+{a=false, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((IF(a)THEN(v=2)ELSE(v=3));print(v));]
+[a=true;]
+
+SymStack:
+{a=false, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((IF(a)THEN(v=2)ELSE(v=3));print(v));]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[((IF(a)THEN(v=2)ELSE(v=3));print(v));]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[(IF(a)THEN(v=2)ELSE(v=3));]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[(IF(a)THEN(v=2)ELSE(v=3));]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+[v=2;]
+
+SymStack:
+{a=true, v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{a=true, v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v);]
+
+SymStack:
+{a=true, v=2}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=true, v=2}
+Output:
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 

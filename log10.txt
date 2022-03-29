@@ -1,0 +1,5312 @@
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(x=1;(y=2;(z=3;(w=4;print(v*10)))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(x=1;(y=2;(z=3;(w=4;print(v*10))))));]
+[v=0;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(x=1;(y=2;(z=3;(w=4;print(v*10))))));]
+[v=0;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(x=1;(y=2;(z=3;(w=4;print(v*10))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(x=1;(y=2;(z=3;(w=4;print(v*10))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(y=2;(z=3;(w=4;print(v*10)))));]
+[while(Model.Expressions.NotExp@227dedfe) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+[v=0;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+[v=0;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@7e11f9a) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+[int x;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=-1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+[int x;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+
+SymStack:
+{v=1, x=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+
+SymStack:
+{v=1, x=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+[x=1;]
+
+SymStack:
+{v=1, x=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+[x=1;]
+
+SymStack:
+{v=1, x=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+
+SymStack:
+{v=1, x=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+
+SymStack:
+{v=1, x=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+[int y;]
+
+SymStack:
+{v=1, x=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+[int y;]
+
+SymStack:
+{v=1, x=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+
+SymStack:
+{v=1, x=1, y=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+
+SymStack:
+{v=1, x=1, y=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+[y=2;]
+
+SymStack:
+{v=1, x=1, y=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+[y=2;]
+
+SymStack:
+{v=1, x=1, y=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+
+SymStack:
+{v=1, x=1, y=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+
+SymStack:
+{v=1, x=1, y=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+[int z;]
+
+SymStack:
+{v=1, x=1, y=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+[int z;]
+
+SymStack:
+{v=1, x=1, y=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+
+SymStack:
+{v=1, x=1, y=2, z=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+
+SymStack:
+{v=1, x=1, y=2, z=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+[z=3;]
+
+SymStack:
+{v=1, x=1, y=2, z=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+[z=3;]
+
+SymStack:
+{v=1, x=1, y=2, z=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+
+SymStack:
+{v=1, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+
+SymStack:
+{v=1, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+[int w;]
+
+SymStack:
+{v=1, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+[int w;]
+
+SymStack:
+{v=1, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+
+SymStack:
+{v=1, w=0, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+
+SymStack:
+{v=1, w=0, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[w=4;]
+
+SymStack:
+{v=1, w=0, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[w=4;]
+
+SymStack:
+{v=1, w=0, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=1, w=4, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=1, w=4, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=1, w=4, x=1, y=2, z=3}
+Output:
+0
+10
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+[v=0;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+[v=0;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@18e20b4b) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+[int x;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=-1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+[int x;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+
+SymStack:
+{v=1, x=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+
+SymStack:
+{v=1, x=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+[x=1;]
+
+SymStack:
+{v=1, x=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+[x=1;]
+
+SymStack:
+{v=1, x=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+
+SymStack:
+{v=1, x=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+
+SymStack:
+{v=1, x=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+[int y;]
+
+SymStack:
+{v=1, x=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+[int y;]
+
+SymStack:
+{v=1, x=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+
+SymStack:
+{v=1, x=1, y=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+
+SymStack:
+{v=1, x=1, y=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+[y=2;]
+
+SymStack:
+{v=1, x=1, y=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+[y=2;]
+
+SymStack:
+{v=1, x=1, y=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+
+SymStack:
+{v=1, x=1, y=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+
+SymStack:
+{v=1, x=1, y=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+[int z;]
+
+SymStack:
+{v=1, x=1, y=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+[int z;]
+
+SymStack:
+{v=1, x=1, y=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+
+SymStack:
+{v=1, x=1, y=2, z=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+
+SymStack:
+{v=1, x=1, y=2, z=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+[z=3;]
+
+SymStack:
+{v=1, x=1, y=2, z=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+[z=3;]
+
+SymStack:
+{v=1, x=1, y=2, z=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+
+SymStack:
+{v=1, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+
+SymStack:
+{v=1, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+[int w;]
+
+SymStack:
+{v=1, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+[int w;]
+
+SymStack:
+{v=1, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+
+SymStack:
+{v=1, w=0, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+
+SymStack:
+{v=1, w=0, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[w=4;]
+
+SymStack:
+{v=1, w=0, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[w=4;]
+
+SymStack:
+{v=1, w=0, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=1, w=4, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=1, w=4, x=1, y=2, z=3}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=1, w=4, x=1, y=2, z=3}
+Output:
+0
+10
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+[v=0;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+[v=0;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=-1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+
+SymStack:
+{v=0}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c5d03fc) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+[int x;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+
+SymStack:
+{v=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+[int x;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+
+SymStack:
+{v=3, x=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+
+SymStack:
+{v=3, x=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+[x=1;]
+
+SymStack:
+{v=3, x=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+[x=1;]
+
+SymStack:
+{v=3, x=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+
+SymStack:
+{v=3, x=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+
+SymStack:
+{v=3, x=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+[int y;]
+
+SymStack:
+{v=3, x=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+[int y;]
+
+SymStack:
+{v=3, x=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+
+SymStack:
+{v=3, x=1, y=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+
+SymStack:
+{v=3, x=1, y=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+[y=2;]
+
+SymStack:
+{v=3, x=1, y=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+[y=2;]
+
+SymStack:
+{v=3, x=1, y=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+
+SymStack:
+{v=3, x=1, y=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+
+SymStack:
+{v=3, x=1, y=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+[int z;]
+
+SymStack:
+{v=3, x=1, y=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+[int z;]
+
+SymStack:
+{v=3, x=1, y=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+
+SymStack:
+{v=3, x=1, y=2, z=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+
+SymStack:
+{v=3, x=1, y=2, z=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+[z=3;]
+
+SymStack:
+{v=3, x=1, y=2, z=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+[z=3;]
+
+SymStack:
+{v=3, x=1, y=2, z=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+
+SymStack:
+{v=3, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+
+SymStack:
+{v=3, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+[int w;]
+
+SymStack:
+{v=3, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+[int w;]
+
+SymStack:
+{v=3, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+
+SymStack:
+{v=3, w=0, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+
+SymStack:
+{v=3, w=0, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[w=4;]
+
+SymStack:
+{v=3, w=0, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[w=4;]
+
+SymStack:
+{v=3, w=0, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3, w=4, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3, w=4, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=3, w=4, x=1, y=2, z=3}
+Output:
+0
+1
+2
+30
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int v;(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+[int v;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(v=0;(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+[v=0;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+[v=0;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))))));]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[repeat{ (Fork{(print(v);v=v-1)};v=v+1) }until( v == 3 );]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[((Fork{(print(v);v=v-1)};v=v+1);while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=1}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=0}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=-1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=2}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=1}
+Output:
+0
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[(Fork{(print(v);v=v-1)};v=v+1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=1}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 2
+ExeStack:
+
+SymStack:
+{v=0}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+[Fork{(print(v);v=v-1)};]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+[v=v+1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[(print(v);v=v-1);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+[while(Model.Expressions.NotExp@c6b82ba) do (Fork{(print(v);v=v-1)};v=v+1) end;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v-1;]
+[print(v);]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int x;(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))))));]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+[v=v-1;]
+
+SymStack:
+{v=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+[int x;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 3
+ExeStack:
+
+SymStack:
+{v=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+[int x;]
+
+SymStack:
+{v=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+
+SymStack:
+{v=3, x=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(x=1;(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))))));]
+
+SymStack:
+{v=3, x=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+[x=1;]
+
+SymStack:
+{v=3, x=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+[x=1;]
+
+SymStack:
+{v=3, x=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+
+SymStack:
+{v=3, x=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int y;(y=2;(int z;(z=3;(int w;(w=4;print(v*10)))))));]
+
+SymStack:
+{v=3, x=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+[int y;]
+
+SymStack:
+{v=3, x=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+[int y;]
+
+SymStack:
+{v=3, x=1}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+
+SymStack:
+{v=3, x=1, y=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(y=2;(int z;(z=3;(int w;(w=4;print(v*10))))));]
+
+SymStack:
+{v=3, x=1, y=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+[y=2;]
+
+SymStack:
+{v=3, x=1, y=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+[y=2;]
+
+SymStack:
+{v=3, x=1, y=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+
+SymStack:
+{v=3, x=1, y=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int z;(z=3;(int w;(w=4;print(v*10)))));]
+
+SymStack:
+{v=3, x=1, y=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+[int z;]
+
+SymStack:
+{v=3, x=1, y=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+[int z;]
+
+SymStack:
+{v=3, x=1, y=2}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+
+SymStack:
+{v=3, x=1, y=2, z=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(z=3;(int w;(w=4;print(v*10))));]
+
+SymStack:
+{v=3, x=1, y=2, z=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+[z=3;]
+
+SymStack:
+{v=3, x=1, y=2, z=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+[z=3;]
+
+SymStack:
+{v=3, x=1, y=2, z=0}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+
+SymStack:
+{v=3, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int w;(w=4;print(v*10)));]
+
+SymStack:
+{v=3, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+[int w;]
+
+SymStack:
+{v=3, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+[int w;]
+
+SymStack:
+{v=3, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+
+SymStack:
+{v=3, w=0, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(w=4;print(v*10));]
+
+SymStack:
+{v=3, w=0, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[w=4;]
+
+SymStack:
+{v=3, w=0, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+[w=4;]
+
+SymStack:
+{v=3, w=0, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3, w=4, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(v*10);]
+
+SymStack:
+{v=3, w=4, x=1, y=2, z=3}
+Output:
+0
+1
+2
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{v=3, w=4, x=1, y=2, z=3}
+Output:
+0
+1
+2
+30
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 

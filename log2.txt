@@ -1,0 +1,1840 @@
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int a;(int b;(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@77f434f6;(b=Model.Expressions.ArithExp@ed4ce77;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@ed4ce77;print(b));]
+[a=Model.Expressions.ArithExp@77f434f6;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@ed4ce77;print(b));]
+[a=Model.Expressions.ArithExp@77f434f6;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@ed4ce77;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@ed4ce77;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@ed4ce77;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@ed4ce77;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=17, b=18}
+Output:
+18
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int a;(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@77f434f6;print(b));]
+[a=Model.Expressions.ArithExp@26f2a668;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@77f434f6;print(b));]
+[a=Model.Expressions.ArithExp@26f2a668;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@77f434f6;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@77f434f6;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@77f434f6;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@77f434f6;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=17, b=18}
+Output:
+18
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int a;(int b;(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@58b0b7f9;(b=Model.Expressions.ArithExp@1a54e0c8;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@1a54e0c8;print(b));]
+[a=Model.Expressions.ArithExp@58b0b7f9;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@1a54e0c8;print(b));]
+[a=Model.Expressions.ArithExp@58b0b7f9;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@1a54e0c8;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@1a54e0c8;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@1a54e0c8;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@1a54e0c8;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=17, b=18}
+Output:
+18
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int a;(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@26f2a668;(b=Model.Expressions.ArithExp@77f434f6;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@77f434f6;print(b));]
+[a=Model.Expressions.ArithExp@26f2a668;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@77f434f6;print(b));]
+[a=Model.Expressions.ArithExp@26f2a668;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@77f434f6;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@77f434f6;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@77f434f6;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@77f434f6;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=17, b=18}
+Output:
+18
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int a;(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int a;(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@3c6050b9;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@3c6050b9;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@3c6050b9;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@3c6050b9;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=17, b=18}
+Output:
+18
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=17, b=18}
+Output:
+18
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int a;(int b;(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@4d60c62f;(b=Model.Expressions.ArithExp@4e4520d9;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@4e4520d9;print(b));]
+[a=Model.Expressions.ArithExp@4d60c62f;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@4e4520d9;print(b));]
+[a=Model.Expressions.ArithExp@4d60c62f;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@4e4520d9;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@4e4520d9;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@4e4520d9;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@4e4520d9;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=17, b=18}
+Output:
+18
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int a;(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)))));]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b))));]
+[int a;]
+
+SymStack:
+{}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(int b;(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b))));]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)));]
+[int b;]
+
+SymStack:
+{a=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(a=Model.Expressions.ArithExp@32cc6ec4;(b=Model.Expressions.ArithExp@3c6050b9;print(b)));]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@3c6050b9;print(b));]
+[a=Model.Expressions.ArithExp@32cc6ec4;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@3c6050b9;print(b));]
+[a=Model.Expressions.ArithExp@32cc6ec4;]
+
+SymStack:
+{a=0, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@3c6050b9;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[(b=Model.Expressions.ArithExp@3c6050b9;print(b));]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@3c6050b9;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+[b=Model.Expressions.ArithExp@3c6050b9;]
+
+SymStack:
+{a=17, b=0}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+[print(b);]
+
+SymStack:
+{a=17, b=18}
+Output:
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
+- - - - - - - - - - 
+Id: 1
+ExeStack:
+
+SymStack:
+{a=17, b=18}
+Output:
+18
+
+FileTable:
+{}
+Heap:
+{}
+- - - - - - - - - - 
